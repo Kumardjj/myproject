@@ -3,6 +3,6 @@ new folder new project
 <head>
 <title>
 New world
-</html>
-</head>
 </title>
+</head>
+</html>
